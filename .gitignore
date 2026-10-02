@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# 运行产物（录音、照片）
+*.wav
+*.jpg
+*.jpeg
+*.png
+
+# 含密钥的本地配置
+config.py
+.env
+
+# 系统文件
+.DS_Store
+Thumbs.db
